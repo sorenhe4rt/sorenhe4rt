@@ -6,7 +6,7 @@
 
 # Social Links
 
- •🐦 [Twitter](https://twitter.com/sorenhe4rt)
-•📸 [Instagram](https://instagram.com/sorenhe4rt)
-•💼 [Linkedin](https://www.linkedin.com/in/sorenheart/)
+•🐦 [Twitter](https://twitter.com/sorenhe4rt)  
+•📸 [Instagram](https://instagram.com/sorenhe4rt)  
+•💼 [Linkedin](https://www.linkedin.com/in/sorenheart/)  
 
