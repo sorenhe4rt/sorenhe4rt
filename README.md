@@ -1,6 +1,6 @@
 <h1 align = "center"> Hello There, I'm Lucas Rossetti!👋 </h1>
 
-<h3 align = "center"> I'm a Brazilian Student Backend Web Developer.</h3>
+<h3 align = "center"> I'm a Brazilian Backend Web Developer Student.</h3>
 
  - **Stack:** PHP, Bootstrap, SQL, JS and NODEJS
 
