@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello There, I'm Lucas Rossetti!👋 </h1>
+<h1 align = "center"> Hello There, I'm Lucas Rossetti!🤙🏻 </h1>
 
 <h3 align = "center"> I'm a Brazilian Backend Web Developer Student.</h3>
 
