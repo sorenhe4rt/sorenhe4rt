@@ -2,7 +2,7 @@
 
 <h3 align = "center"> I'm a Brazilian Backend Web Developer Student.</h3>
 
- - **Stack:** PHP, Bootstrap, SQL, JS and NODEJS
+ - **Stack:** Js, NodeJS e SQL
 
 # Social Links
 
