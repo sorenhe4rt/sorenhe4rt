@@ -1,6 +1,15 @@
-<h1 align = "center"> Hello There, I'm Lucas Rossetti!🤙🏻 </h1>
 
-<h3 align = "center"> I'm a Brazilian Backend Web Developer Student.</h3>
+### Hey 🖖🏻, I'm  Lucas!
+
+Hi, I'm Lucas Rossetti, a Backend Developer  🚀  from Brazil, currently, I'm a Student 👨🏻‍💻. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
+
+**Talking about Personal Stuffs:**
+
+-   💪🏻 I’m currently working on improving my techskill;
+-   👨🏻‍💻  I’m currently learning NODEJS/MongoDB;
+-   💜  Best community [He4rtDevs](https://heartdevs.com/)
+-   💬  Ask me about anything, I am happy to help;
+-   📫  How to reach me:  whoissoren@gmail.com
 
  - **Stack:** Js, NodeJS e SQL
 
