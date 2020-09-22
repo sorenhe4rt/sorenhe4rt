@@ -11,7 +11,7 @@ Hi, I'm Lucas Rossetti, a Backend Developer  🚀  from Brazil, currently, I'm a
 -   💬  Ask me about anything, I am happy to help;
 -   📫  How to reach me:  whoissoren@gmail.com
 
- - **Stack:** Js, NodeJS, MongoDB & Git.
+ - **Stack:** PHP & Git.
 
 # Social Links
 
