@@ -6,7 +6,7 @@ Hi, I'm Lucas Rossetti, a Backend Developer  🚀  from Brazil, currently, I'm a
 **Talking about Personal Stuffs:**
 
 -   💪🏻 I’m currently working on improving my techskill;
--   🧙‍♂️ My stack: PHP & Git.
+-   🧙‍♂️ My stack PHP & Git;
 -   👨🏻‍💻  I’m currently learning Golang;
 -   💜  Best community [He4rtDevs](https://heartdevs.com/)
 -   💬  Ask me about anything, I am happy to help;
