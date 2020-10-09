@@ -6,8 +6,8 @@ Hi, I'm Lucas Rossetti, a Backend Developer  🚀  from Brazil, currently, I'm a
 **Talking about Personal Stuffs:**
 
 -   💪🏻 I’m currently working on improving my techskill;
-  -   🧙‍♂️ My stack PHP & Python;
--   👨🏻‍💻  I’m currently learning Golang;
+  -   🧙‍♂️ My stack Python;
+-   👨🏻‍💻  I’m currently learning PHP ;
 -   💜  Best community [He4rtDevs](https://heartdevs.com/)
 -   💬  Ask me about anything, I am happy to help;
 -   📫  How to reach me:  whoissoren@gmail.com
