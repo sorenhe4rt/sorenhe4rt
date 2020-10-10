@@ -10,7 +10,7 @@ Hi, I'm Lucas Rossetti, a Backend Developer  🚀  from Brazil, currently, I'm a
 -   👨🏻‍💻  I’m currently learning PHP ;
 -   💜  Best community [He4rtDevs](https://heartdevs.com/)
 -   💬  Ask me about anything, I am happy to help;
--   📫  How to reach me:  whoissoren@gmail.com
+-   📫  How to reach me:  sorenhe4rt@gmail.com
 
 # Social Links
 
