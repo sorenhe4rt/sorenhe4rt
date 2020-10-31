@@ -9,5 +9,5 @@ Hi, I'm Lucas Rossetti, video editor, I script after effect and premiere to make
   -   🧙‍♂️ My stack JS & PHP;
 -   💜  Best community [He4rtDevs](https://heartdevs.com/)
 -   💬  Ask me about anything, I am happy to help;
--   📫  How to reach me:  [on my twitter ](https://twitter.com/sorenhe4rt)
+-   📫  How to reach me:  [my twitter ](https://twitter.com/sorenhe4rt)
 
