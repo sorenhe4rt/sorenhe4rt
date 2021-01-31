@@ -1,5 +1,5 @@
 
-### Hey 🖖🏻, I'm  Lucas!
+### Hey 😎🤙, I'm  Lucas!
 
 Hi, I'm Lucas Rossetti, video editor, I create script in after effect and premiere to make my job easier.
 
