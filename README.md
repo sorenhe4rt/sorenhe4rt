@@ -1,7 +1,7 @@
 
-### Hey 😎🤙, I'm  Lucas!
+### Sup DoGG!
 
-Hi, I'm Lucas Rossetti, video editor, I create script in after effect and premiere to make my job easier.
+Hi, I'm Lucas Soren, video editor, I create script in after effect and premiere to make my job easier.
 
 **Talking about Personal Stuffs:**
 
