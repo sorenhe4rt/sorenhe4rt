@@ -9,5 +9,5 @@ Hi, I'm Lucas Soren, editor vfx/motion, I create script in after effect and prem
   -   🧙‍♂️ My stack After & JS;
 -   💜  Best community [He4rtDevs](https://heartdevs.com/)
 -   💬  Ask me about anything, I am happy to help;
--   📫  How to reach me:  [my twitter ](https://twitter.com/sorenhe4rt)
+-   📫  How to reach me:  [my twitter ](https://twitter.com/sorenedits)
 
